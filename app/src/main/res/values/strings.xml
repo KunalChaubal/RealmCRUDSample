@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RealmSample</string>
+    <string name="txt_id">ID</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_location">Location</string>
+    <string name="txt_save">Save</string>
+    <string name="txt_clear">Clear</string>
+</resources>
